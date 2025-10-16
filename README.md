@@ -33,7 +33,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_azurerm_policy_definition"></a> [azurerm\_policy\_definition](#module\_azurerm\_policy\_definition) | git::https://manitougroup@dev.azure.com/manitougroup/TEMPLATE/_git/terraform.azurerm_policy_definition | v0.0.1 |
+| <a name="module_azurerm_policy_definition"></a> [azurerm\_policy\_definition](#module\_azurerm\_policy\_definition) | git::https://entreprisegroup@dev.azure.com/entreprisegroup/TEMPLATE/_git/terraform.azurerm_policy_definition | v0.0.1 |
 
 ## Resources
 
